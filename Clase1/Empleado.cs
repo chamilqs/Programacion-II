@@ -3,6 +3,7 @@ using System;
 namespace Clase1{
     public abstract class Empleado : MiembroDeLaComunidad
     {
+        public String CodigoEmpleado { get; set; }
         public abstract void Trabajar();
         public override void BeberAgua()
         {
