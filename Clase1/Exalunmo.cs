@@ -22,6 +22,12 @@ namespace Clase1{
             throw new NotImplementedException();
         }
 
+        public void Estudiar(){
+            
+            // Estoy estudiando
+
+        }
+
     }
 
 }
